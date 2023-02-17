@@ -11,7 +11,7 @@
   <h3 align="center">Git Finder</h3>
 
   <p align="center">
-    <a href="">Git Finder</a>
+    <a href="https://git-finder-nine.vercel.app/">Git Finder</a>
     <br />
     <br />
   </p>
